@@ -1,0 +1,2 @@
+subscription.py连接到MQTT服务器，订阅服务信息，并将数据存储到TXT文件里
+view.py显示界面，读取文件信息，每1s将信息刷新到界面上

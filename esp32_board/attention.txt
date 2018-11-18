@@ -1,0 +1,3 @@
+将运行文件设置成main.py，ESP32将main.py作为默认运行文件。
+ESP32若用micropython编程，有其本身的库，详情查看：http://docs.dfrobot.com.cn/upycraft/
+TPYboard参考手册：http://docs.tpyboard.com
